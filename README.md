@@ -1,0 +1,1 @@
+Analyzed learning loss during COVID-19 between March 2020 and March 2022. The dataset included 41 countries.
